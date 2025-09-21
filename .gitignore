@@ -1,0 +1,17 @@
+node_modules
+.dist
+.next
+out
+.env
+.env.local
+.env.production
+.env.development
+pnpm-lock.yaml
+yarn.lock
+.DS_Store
+.idea
+*.log
+prisma/.env
+
+# Turbo
+.turbo
